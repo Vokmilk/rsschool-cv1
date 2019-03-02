@@ -1,4 +1,4 @@
-1. # **Name Surname:**: Andrei Klimkou
+1. **Name Surname:** Andrei Klimkou
 2. **contact:** +375445283633, +375336186698, email: shadowcool12@gmail.com
 3. **Summary:**  I have an analytical mindset. I like to learn. I would like to gain knowledge in the front of the end and in the future to work in this area.
 4. **Skills:** advanced skills in Excel, 
